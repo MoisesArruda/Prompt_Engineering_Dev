@@ -21,8 +21,28 @@ Este repositório tem o propósito de armazenar o conhecimento adquirido durante
 * Limitar o número de caracteres no Output.
 * Foco maior em determinado assunto/detalhe.
 
-## 3.
+## 3. Sumarizar
 
 * Summarizar textos.
 * Foco em tópicos bastante específicos.
 * Extração de textos invés de resumos
+
+## 4. Infering
+
+* Deduzir o sentimento presente na mensagem.
+
+## 5. Transformando
+ 
+* Criando uma especialidade para o modelo.
+* Tradutor.
+* Corretor.
+* Ajusto de tonalidade.
+* Conversação formal.
+
+## 6. Chatbots
+
+* Utilizar a formatação de chat para obter conversas personalizadas.
+
+## 7. Criação de e-mails personalizados.
+
+* Crie e-mails de acordo com sua necessidade.
